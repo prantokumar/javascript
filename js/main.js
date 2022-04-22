@@ -8,4 +8,5 @@ myname.innerHTML = myName;
 
 //datatypes in javascript
 //there are mainly six/6 type of datatypes (undefined, boolean, number, string, bigint, symbol)
-
+var myName = 'Pranto Kumar Saha';
+console.log(myName);
